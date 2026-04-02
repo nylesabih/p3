@@ -1,0 +1,5 @@
+01:00:00:00:00|SYS|Memory allocation failed
+02:00:00:00:00|SYS|Disk space low
+03:00:00:00:00|SYS|Memory usage high
+04:00:00:00:00|NET|Network timeout
+05:00:00:00:00|SYS|Memory leak detected

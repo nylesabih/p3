@@ -1,0 +1,11 @@
+a 0
+a 1
+a 2
+a 3
+# Move third to beginning
+b 2
+p
+# Move first to end
+e 0
+p
+q

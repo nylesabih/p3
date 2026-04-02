@@ -1,0 +1,8 @@
+# Search for entries with both keywords
+k memory failed
+# Print search results
+g
+# Search another combination
+k memory leak
+g
+q

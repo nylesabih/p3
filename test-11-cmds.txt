@@ -1,0 +1,8 @@
+# Test 'r' before any search
+r
+# Now do a search
+c A
+r
+# Test 'g' output format
+g
+q

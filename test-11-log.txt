@@ -1,0 +1,3 @@
+01:00:00:00:00|A|Entry one
+02:00:00:00:00|B|Entry two
+03:00:00:00:00|C|Entry three

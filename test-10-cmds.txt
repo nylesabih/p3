@@ -1,0 +1,5 @@
+k cat
+g
+k cat dog
+g
+q

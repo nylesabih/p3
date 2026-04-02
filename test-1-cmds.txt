@@ -1,0 +1,9 @@
+# Test timestamp search
+t 09:00:00:00:00|11:00:00:00:00
+# Test exact timestamp match
+m 10:09:03:45:50
+# Test category search
+c TCP
+# Test keyword search
+k packet
+q

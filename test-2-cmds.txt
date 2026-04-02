@@ -1,0 +1,11 @@
+# Append entries
+a 0
+a 2
+a 4
+# Print excerpt list
+p
+# Delete middle entry
+d 1
+# Print again
+p
+q

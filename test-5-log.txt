@@ -1,0 +1,5 @@
+10:00:00:00:00|ERROR|Critical failure
+10:00:00:00:01|ERROR|System crash
+10:00:00:00:02|INFO|System reboot
+10:00:00:00:03|ERROR|Service down
+10:00:00:00:04|INFO|Recovery started

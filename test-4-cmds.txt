@@ -1,0 +1,9 @@
+# Add out of order
+a 0
+a 1
+a 2
+# Sort excerpt list
+s
+# Clear excerpt list
+l
+q

@@ -1,0 +1,5 @@
+10:09:03:45:50|TCP|Packet sent
+09:15:12:00:00|Clock|Noon time
+10:09:03:45:51|TCP|Packet received
+08:23:12:03:15|TCP|Connection lost
+12:11:20:12:12|TCP|Bad packet

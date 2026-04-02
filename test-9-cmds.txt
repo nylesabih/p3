@@ -1,0 +1,5 @@
+c delta
+g
+c alpha
+g
+q

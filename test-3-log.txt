@@ -1,0 +1,4 @@
+01:00:00:00:00|A|First entry
+02:00:00:00:00|B|Second entry
+03:00:00:00:00|C|Third entry
+04:00:00:00:00|D|Fourth entry

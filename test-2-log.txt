@@ -1,0 +1,5 @@
+01:01:01:01:01|UI|Window opened
+02:02:02:02:02|DB|Query executed
+03:03:03:03:03|NET|Request sent
+04:04:04:04:04|UI|Button clicked
+05:05:05:05:05|DB|Transaction complete

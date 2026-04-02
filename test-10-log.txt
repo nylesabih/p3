@@ -1,0 +1,4 @@
+01:00:00:00:00|SYS|The cat is on the mat
+02:00:00:00:00|SYS|The catalog is complete
+03:00:00:00:00|SYS|Category assignment
+04:00:00:00:00|SYS|Cat and dog

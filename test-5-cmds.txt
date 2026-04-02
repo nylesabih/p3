@@ -1,0 +1,7 @@
+# Search for ERROR category
+c ERROR
+# Append all search results
+r
+# Print excerpt list
+p
+q
