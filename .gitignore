@@ -1,0 +1,8 @@
+*.o
+logman
+fullsubmit.tar.gz
+.vscode/
+*:Zone.Identifier
+test-*-cmds.txt
+test-*-log.txt
+spec-test-*.txt
